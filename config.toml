@@ -1,4 +1,4 @@
-baseURL = "https://celestine.quasarops.com"
+baseURL = "https://celestine.eideon.com"
 languageCode = "en-us"
 title = "Cèlestine"
 theme = "split"
@@ -7,14 +7,6 @@ pluralizelisttitles = "false"
 enableRobotsTXT = true
 canonifyURLs = true
 #googleAnalytics = ""
-
-#[params]
-#    greeting = "Cèlestine"
-#
-#    [params.colors]
-#        background = "#81c6ff"
-#        foreground = "#edf7ff"
-#        hover = "#ffff82"
 
 [params]
 
