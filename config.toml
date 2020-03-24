@@ -15,9 +15,9 @@ canonifyURLs = true
 
     [params.visual.video]
         enable = true
-        # mute = false
-        # file = "videos/flowers_bloom_before_your_eyes.mp4"
-        youtubeId = "LjCzPp-MK48"
+        mute = true
+        file = "videos/flowers_bloom_before_your_eyes.mp4"
+        # youtubeId = "LjCzPp-MK48"
 
 [markup.goldmark.renderer]
     unsafe= true
