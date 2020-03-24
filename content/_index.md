@@ -1,7 +1,7 @@
-# Cèlestine
-
-*Pour Coralline, Antoine et Célestine, voyageurs des mers profondes*
-*Diego*
++++
+title = "Pour Coralline, Antoine et Célestine, voyageurs des mers profondes"
+tagline = "Cèlestine"
++++
 
 in a little place<br/>
 where little hearts are born<br/>
@@ -28,3 +28,8 @@ she left behind a scented trail<br/>
 for animals and plants alike<br/>
 for life<br/>
 to bloom<br/>
+
+
+
+
+

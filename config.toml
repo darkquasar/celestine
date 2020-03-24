@@ -1,0 +1,31 @@
+baseURL = "https://celestine.quasarops.com"
+languageCode = "en-us"
+title = "Cèlestine"
+theme = "split"
+
+pluralizelisttitles = "false"
+enableRobotsTXT = true
+canonifyURLs = true
+#googleAnalytics = ""
+
+#[params]
+#    greeting = "Cèlestine"
+#
+#    [params.colors]
+#        background = "#81c6ff"
+#        foreground = "#edf7ff"
+#        hover = "#ffff82"
+
+[params]
+
+    [params.visual.image]
+        enable = false
+
+    [params.visual.video]
+        enable = true
+        # mute = false
+        # file = "videos/flowers_bloom_before_your_eyes.mp4"
+        youtubeId = "LjCzPp-MK48"
+
+[markup.goldmark.renderer]
+    unsafe= true
