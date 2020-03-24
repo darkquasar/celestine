@@ -1,6 +1,6 @@
 # Cèlestine
 
-*Pour Coralline, Antoine et Célestine, voyageurs des mers profondes*
+*Pour Coraline, Antoine et Célestine, voyageurs des mers profondes*
 *Diego*
 
 in a little place<br/>
